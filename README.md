@@ -21,3 +21,5 @@ O projeto seguirá os seguintes conceitos:
   <li>CQRS</li>
   <li>TDD</li>
 </ul>
+
+Por fins de estudo e teste, as rotas e action das entidades estão sendo projetados para [Task Based](https://codeopinion.com/decomposing-crud-to-a-task-based-ui/) ao invés de CRUD.
