@@ -6,7 +6,7 @@ O back-end (este projeto) está sendo feito em .Net Core 7, tendo como banco de 
 Até o momento, será utilizado as seguintes bibliotecas no projeto:
   <ul>
     <li>Mediatr</li>
-    <li>Entity Framework/li>
+    <li>Entity Framework</li>
     <li>Auto Mapper</li>
     <li>Fluent Validations</li>
     <li>NUnit</li>
