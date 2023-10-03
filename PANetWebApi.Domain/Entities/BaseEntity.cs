@@ -17,5 +17,5 @@ public abstract class BaseEntity<TKeyType> : IHasDomainEvent
     public IReadOnlyCollection<DomainEvent> RegisteredDomainEvents 
         => DomainEvents.AsReadOnly();
 
-    private List<DomainEvent> DomainEvents { get; } = new ();
+    internal List<DomainEvent> DomainEvents { get; } = new ();
 }
