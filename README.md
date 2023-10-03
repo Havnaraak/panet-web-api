@@ -9,7 +9,7 @@ Até o momento, será utilizado as seguintes bibliotecas no projeto:
     <li>Entity Framework/li>
     <li>Auto Mapper</li>
     <li>Fluent Validations</li>
-    <li>NUnit/li>
+    <li>NUnit</li>
     <li>Bogus</li>
   </ul>
 
